@@ -52,7 +52,7 @@
 | `source_package.html`| 2 | |
 | `stats.html`| 2 | |
 | `stats_suite.html`| 2  | |
-| `stats_trends.inc.html`| 3 | XXX: images aren't responsive |
+| `stats_trends.inc.html`| 3 | |
 
 
 ### `debsources/app/copyright/templates/copyright`  
@@ -74,7 +74,7 @@
 | `package.html`| 2 | |
 | `stats.html`| 2 | |
 | `stats_suite.html`| 2 | |
-| `stats_trends.inc.html`| 3 | XXX: images are not responsive |
+| `stats_trends.inc.html`| 3 | |
 
 
 ### `debsources/app/patches/templates/patches/`
